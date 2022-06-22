@@ -11,3 +11,5 @@ Better Title Screen
 There's even more to come yet!
 
 Have fun and give us support!
+
+License: GPSOSv1
