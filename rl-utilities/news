@@ -1,14 +1,17 @@
-<table style="width: auto; border-color: #181818; background-color: #181818; margin-left: auto; margin-right: auto;">
+<table style="width: 422px; border-color: #181818; background-color: #181818; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td>
-<h1><span style="color: #ffffff;">News Page</span></h1>
+<td style="width: 422x;">
+<h1 style="text-align: center;"><span style="color: #ffffff;">News Page</span></h1>
 </td>
+</tr>
+<tr>
+<td style="width: 422px;"><hr /></td>
 </tr>
 </tbody>
 </table>
 <p style="text-align: center;"><span style="color: #ffffff;">&nbsp;</span></p>
-<table style="width: auto; border-color: #181818; background-color: #181818; margin-left: auto; margin-right: auto;">
+<table style="width: 422px; border-color: #181818; background-color: #181818; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr style="height: 55px;">
 <td style="width: 412px; height: 55px;">
@@ -22,3 +25,4 @@
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
