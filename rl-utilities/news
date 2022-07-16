@@ -1,6 +1,3 @@
-body {
-    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-}
 <table style="width: 415px; border-color: #181818; background-color: #181818; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
