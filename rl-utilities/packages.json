@@ -2,17 +2,17 @@
     "minimumVersion": 1,
     "packages": [
         {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
+            "name": "MCR v.1.0.0a",
+            "title": "MCR v.1.0.0a",
+            "version": "1",
+            "location": "mcr100a.json",
             "priority": 1
         },
         {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
+            "name": "MCR v.1.0.1a",
+            "title": "MCR v.1.0.1a",
+            "version": "1",
+            "location": "mcr101a.json",
             "priority": 1
         }
     ]
